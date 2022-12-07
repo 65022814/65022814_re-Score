@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: solid;
+    width: 1600px;
+    height: 1000px;    
+  }
+  nav {
+    background: darkcyan;
+    padding: 1px;
+    word-spacing: 5px;
+    text-indent: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  header {
+    background-color: #666;
+    padding: 1px;
+    text-align: left;
+    font-size: 15px;
+    color: black;
+  }
+  aside {
+    width: 20%;
+    height: 73%;
+    border: solid 2px;
+    padding-right: 15px;
+    margin-right: 0px;
+    float: right;
+    background-color: lightpink;
+  }
+  .rightsideblock1{
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: solid;
+    background-color: rgb(218, 155, 203);
+    padding: 2%;
+    border-radius: 10%;
+    margin: 15px;
+    margin-right: -10px;
+  }
+  .block01{
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: solid;
+    background-color: rgb(218, 155, 203);
+    padding: 1%;
+    border-radius: 10%;
+    margin: 10px;
+    margin-right: -5px;
+  }
+  .rightsideblock2{
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: solid;
+    background-color: rgb(218, 155, 203);
+    padding: 2%;
+    border-radius: 10%;
+    margin: 15px;
+    margin-right: -10px;
+  }
+  .block02{
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: solid;
+    background-color: rgb(218, 155, 203);
+    padding: 1%;
+    border-radius: 10%;
+    margin: 10px;
+    margin-right: -5px;
+  }
+  .rightsideblock3{
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: solid;
+    background-color: rgb(218, 155, 203);
+    padding: 1%;
+    border-radius: 10%;
+    margin: 15px;
+    margin-right: -10px;
+  }
+  .rightsideblock4{
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: solid;
+    background-color: rgb(218, 155, 203);
+    padding: 1%;
+    border-radius: 10%;
+    margin: 15px;
+    margin-right: -10px;
+  }
+  .Mid {
+    width: 20%;
+    height: 73%;
+    border: solid 2px;
+    padding-right: 15px;
+    margin-right: 0px;
+    float: right;
+    background-color: rgb(221, 187, 114);
+  }
+  .midsideblock_1{
+    background-color: white;
+    height: 28%;
+    margin-right: -15px;
+  }
+  .midblock1{
+    background-color:aqua;
+    padding: 1%;
+    margin: 15px;
+    height: 60%;
+    margin-right: 10px;
+  } 
+  .midblock1-1{
+    width: 25%;
+    height: 80%;
+    background-color: red;
+  }
+  .midsideblock_2{
+    background-color: white;
+    padding: 2%;
+    margin: 15px;
+    height: 35%;
+    float: left;
+    margin-right: -10px;
+  }
+  .midblock2{
+    background-color:aqua;
+    padding: 1%;
+    margin: 15px;
+    height: 60%;
+    margin-right: 10px;
+  } 
+  .midblock2-1{
+    width: 25%;
+    height: 80%;
+    background-color: red;
+  }
